@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: note-sample-app-container
-        image: pavansa/note-sample-app
+        image: ashishdhawal/notesappjs
         resources:
           requests:
             cpu: "100m"
