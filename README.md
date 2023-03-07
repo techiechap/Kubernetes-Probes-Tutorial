@@ -27,5 +27,6 @@ To run tests
 ```
 npm test
 ```
+You can skip to run npm commands and directly build your image by running the buildx build context.
 Once you create the deployment and service , you should be able to see 
-http://localhost:3000
+http://localhost:80
