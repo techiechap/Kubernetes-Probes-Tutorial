@@ -28,4 +28,4 @@ To run tests
 npm test
 ```
 Once you create the deployment and service , you should be able to see 
-localhost:80 
+http://localhost:3000
